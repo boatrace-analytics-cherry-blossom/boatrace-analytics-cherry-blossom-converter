@@ -1,10 +1,10 @@
 # Boatrace Analytics Cherry Blossom Converter
 
-[![Build Status](https://github.com/boatrace-analytics-cherry-blossom/converter/workflows/tests/badge.svg)](https://github.com/boatrace-analytics-cherry-blossom/converter/actions?query=workflow%3Atests)
-[![Coverage Status](https://coveralls.io/repos/github/boatrace-analytics-cherry-blossom/converter/badge.svg?branch=master)](https://coveralls.io/github/boatrace-analytics-cherry-blossom/converter?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/boatrace-analytics-cherry-blossom/converter/v/stable)](https://packagist.org/packages/boatrace-analytics-cherry-blossom/converter)
-[![Latest Unstable Version](https://poser.pugx.org/boatrace-analytics-cherry-blossom/converter/v/unstable)](https://packagist.org/packages/boatrace-analytics-cherry-blossom/converter)
-[![License](https://poser.pugx.org/boatrace-analytics-cherry-blossom/converter/license)](https://packagist.org/packages/boatrace-analytics-cherry-blossom/converter)
+[![Build Status](https://github.com/boatrace-analytics-cherry-blossom/boatrace-analytics-cherry-blossom-converter/workflows/tests/badge.svg)](https://github.com/boatrace-analytics-cherry-blossom/boatrace-analytics-cherry-blossom-converter/actions?query=workflow%3Atests)
+[![Coverage Status](https://coveralls.io/repos/github/boatrace-analytics-cherry-blossom/boatrace-analytics-cherry-blossom-converter/badge.svg?branch=master)](https://coveralls.io/github/boatrace-analytics-cherry-blossom/boatrace-analytics-cherry-blossom-converter?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/boatrace-analytics-cherry-blossom/boatrace-analytics-cherry-blossom-converter/v/stable)](https://packagist.org/packages/boatrace-analytics-cherry-blossom/boatrace-analytics-cherry-blossom-converter)
+[![Latest Unstable Version](https://poser.pugx.org/boatrace-analytics-cherry-blossom/boatrace-analytics-cherry-blossom-converter/v/unstable)](https://packagist.org/packages/boatrace-analytics-cherry-blossom/boatrace-analytics-cherry-blossom-converter)
+[![License](https://poser.pugx.org/boatrace-analytics-cherry-blossom/boatrace-analytics-cherry-blossom-converter/license)](https://packagist.org/packages/boatrace-analytics-cherry-blossom/boatrace-analytics-cherry-blossom-converter)
 
 ## Installation
 ```
