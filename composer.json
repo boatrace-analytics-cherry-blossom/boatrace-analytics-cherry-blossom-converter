@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "boatrace-analytics/trimmer": "^1.0",
+        "boatrace-analytics-cherry-blossom/boatrace-analytics-cherry-blossom-trimmer": "^1.0",
         "nesbot/carbon": "^2.0",
         "php-di/php-di": "^6.0"
     },

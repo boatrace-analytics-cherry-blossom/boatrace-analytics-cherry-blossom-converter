@@ -2,7 +2,6 @@
 
 namespace Boatrace\Analytics\Cherry\Blossom;
 
-use Boatrace\Analytics\Trimmer;
 use Carbon\CarbonImmutable as Carbon;
 
 /**
